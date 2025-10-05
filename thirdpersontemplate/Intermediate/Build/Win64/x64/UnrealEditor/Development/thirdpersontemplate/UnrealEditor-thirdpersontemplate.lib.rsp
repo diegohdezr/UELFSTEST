@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-thirdpersontemplate.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\thirdpersontemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplate.init.gen.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplateCharacter.gen.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplateGameMode.gen.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplate.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplateCharacter.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\thirdpersontemplateGameMode.cpp.obj"
+"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\Default.rc2.res"
+/OUT:"F:\repos\UEProjects\testLFSUE\UELFSTEST\thirdpersontemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\thirdpersontemplate\UnrealEditor-thirdpersontemplate.lib"

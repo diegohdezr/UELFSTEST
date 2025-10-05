@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\repos\\ueprojects\\testlfsue\\uelfstest\\thirdpersontemplate\\source\\thirdpersontemplate\\thirdpersontemplate.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\repos\\ueprojects\\testlfsue\\uelfstest\\thirdpersontemplate\\intermediate\\build\\win64\\x64\\thirdpersontemplateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\repos\\ueprojects\\testlfsue\\uelfstest\\thirdpersontemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersontemplate\\definitions.thirdpersontemplate.h",
+            "f:\\repos\\ueprojects\\testlfsue\\uelfstest\\thirdpersontemplate\\source\\thirdpersontemplate\\thirdpersontemplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

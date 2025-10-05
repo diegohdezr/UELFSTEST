@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\repos\\UEProjects\\testLFSUE\\UELFSTEST\\thirdpersontemplate\\Source\\thirdpersontemplate\\thirdpersontemplate.Build.cs",
+		"F:\\repos\\UEProjects\\testLFSUE\\UELFSTEST\\thirdpersontemplate\\Source\\thirdpersontemplate.Target.cs",
+		"F:\\repos\\UEProjects\\testLFSUE\\UELFSTEST\\thirdpersontemplate\\Source\\thirdpersontemplateEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
